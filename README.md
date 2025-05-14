@@ -24,7 +24,7 @@ You can try the app live here: [Random Dog Viewer Demo](https://your-live-demo-l
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/yourusername/random-dog-viewer.git
+    git clone https://github.com/mohidul-hq/Dog_api.git
     ```
 2. Open `index.html` in your browser to start using the app.
 
