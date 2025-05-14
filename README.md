@@ -18,7 +18,7 @@ A fun web app that fetches random dog images and allows you to download them. It
 
 ## Live Demo
 
-You can try the app live here: [Random Dog Viewer Demo](https://your-live-demo-link.com)
+You can try the app live here: [Random Dog Viewer Demo](https://mohidul-hq.github.io/Dog_api/)
 
 ## Installation
 
